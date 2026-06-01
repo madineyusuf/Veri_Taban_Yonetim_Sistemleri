@@ -1,4 +1,4 @@
-# Veri_Taban_Yonetim_Sistemleri
+# Veri Taban Yonetim Sistemleri Projesi
 
 Proje 1, 2 aşamadan oluşmaktadır:
 
